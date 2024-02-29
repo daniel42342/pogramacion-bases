@@ -1,0 +1,3 @@
+Su objetivo es clasificar las emociones registradas en dos grupos: “negativas” y “positivas”. Cuando se le proporciona una emoción como entrada (por ejemplo, “negativa” o “positiva”), 
+la función determina a qué grupo pertenece y devuelve el nombre del grupo correspondiente. Si la emoción no se clasifica como “negativa” ni “positiva”, se asigna a 
+un grupo genérico llamado “Otro Grupo”. 
